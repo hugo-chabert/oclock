@@ -46,7 +46,7 @@ let setAlarm = () => {
 
         }
     }else{
-        alert('Select Alarm Time !!!')
+        alert('Selectionnez une horaire')
     }
 
 }
