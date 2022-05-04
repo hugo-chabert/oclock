@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../public/css/minuteur.css">
     <script type="text/javascript" src="../public/js/minuteur.js"></script>
-    <title>Horloge</title>
+    <title>Minuteur</title>
 </head>
 <body>
     <main>
