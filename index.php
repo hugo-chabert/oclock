@@ -18,6 +18,7 @@
                 <a href="view/reveil.php"><button class="button">Réveil</button></a>
             </div>
         </div>
+        <a href="https://github.com/hugo-chabert/oclock"><img src="25231.png" class="img"></a>
     </main>
 </body>
 </html>

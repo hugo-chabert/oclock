@@ -30,3 +30,7 @@ main{
     color: var(--White-);
     cursor: pointer;
 }
+
+.img{
+    width: 5%;
+}
